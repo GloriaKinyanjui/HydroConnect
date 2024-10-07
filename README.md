@@ -15,11 +15,12 @@ HydroConnect leverages IBM Watsonx AI to offer an innovative solution by monitor
 
 Key Features of HydroConnect:
 
-AI-Powered Insights: HydroConnect uses Watsonx.ai to track real-time water usage, analyze trends, and predict future consumption patterns, enabling communities to manage their water supply more effectively.
-Real-Time Alerts and Notifications: The platform sends out timely alerts to notify users of impending water shortages or excess usage and recommends conservation techniques to ensure sustainability.
-Equitable Water Distribution: HydroConnect ensures that water is distributed equitably by analyzing community needs and allocating resources accordingly, reducing wastage and ensuring that everyone, particularly vulnerable groups, has access to clean water.
-Mobile-First Design: The platform is designed to be accessible via mobile devices, enabling users in remote regions to easily track and manage water consumption.
-Community-Centric: HydroConnect fosters community engagement by providing AI-generated suggestions and insights on how to optimize water usage, helping communities make data-driven decisions about water conservation.
+1. AI-Powered Insights: HydroConnect uses Watsonx.ai to track real-time water usage, analyze trends, and predict future consumption patterns, enabling communities to manage their water supply more effectively.
+2. Real-Time Alerts and Notifications: The platform sends out timely alerts to notify users of impending water shortages or excess usage and recommends conservation techniques to ensure sustainability.
+3. Equitable Water Distribution: HydroConnect ensures that water is distributed equitably by analyzing community needs and allocating resources accordingly, reducing wastage and ensuring that everyone, particularly vulnerable groups, has access to clean water.
+4. Mobile-First Design: The platform is designed to be accessible via mobile devices, enabling users in remote regions to easily track and manage water consumption.
+5. Community-Centric: HydroConnect fosters community engagement by providing AI-generated suggestions and insights on how to optimize water usage, helping communities make data-driven decisions about water conservation.
+
 HydroConnect improves upon existing solutions by integrating AI-driven forecasting and user-friendly technology to provide a comprehensive, real-time view of water resource management. Unlike traditional water monitoring systems that may be static or inefficient, HydroConnect continuously evolves, allowing communities to react to changing water availability and prepare for future shortages. It addresses a critical gap by ensuring that water allocation is fair, informed, and adaptable, with the goal of improving access to this vital resource.
 - [Technology implementation](#technology-implementation)
   - [IBM watsonx product(s) used](#ibm-ai-services-used)
