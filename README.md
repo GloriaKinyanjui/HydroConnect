@@ -1,7 +1,8 @@
 # Achievers
 
 - [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#Communities in Africa, particularly women and children, face severe challenges in accessing clean water due to uneven distribution, climate change, and inefficient water resource management. HydroConnect aims to solve this sustainability problem by ensuring equitable access to water through AI-powered insights and efficient resource management.)
+  - [The issue we are hoping to solve]
+(Communities in Africa, particularly women and children, face severe challenges in accessing clean water due to uneven distribution, climate change, and inefficient water resource management. HydroConnect aims to solve this sustainability problem by ensuring equitable access to water through AI-powered insights and efficient resource management.)
   - [How our technology solution can help](#how-our-technology-solution-can-help)
   - [Our idea](#our-idea)
 - [Technology implementation](#technology-implementation)
