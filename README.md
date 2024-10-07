@@ -32,22 +32,23 @@ HydroConnect improves upon existing solutions by integrating AI-driven forecasti
 3. watsonx Assistant: The Watsonx Assistant enables HydroConnect to provide interactive, AI-driven communication with users, offering personalized water conservation tips and answering user questions regarding water supply in their area. This assistant also facilitates real-time support and alerts.
 
   - [Other IBM technology used](#other-ibm-technology-used)
-Watson Machine Learning
+
+1. Watson Machine Learning
 In HydroConnect, Watson Machine Learning is used to build and deploy AI models that forecast water demand based on historical and real-time usage data. By analyzing the consumption trends across various communities, the AI models predict future water shortages and surpluses, enabling dynamic and equitable distribution of resources. This helps communities anticipate and plan for upcoming water needs, thereby improving overall water resource management.
 
-Watson Studio
+2. Watson Studio
 Watson Studio is employed in HydroConnect to manage data analytics workflows. It helps with cleaning and processing large datasets collected from water usage sensors and other sources. Using Watson Studio, the team was able to collaborate on data models that deliver actionable insights on water consumption patterns. This platform allows for continuous model training and refinement, ensuring the AI predictions remain accurate and relevant as more data is collected.
 
-Natural Language Understanding
+3. Natural Language Understanding
 HydroConnect uses Watson’s Natural Language Understanding (NLU) service to analyze and extract key information from community feedback regarding water access. This feedback, which may include written reports or social media discussions, is processed using NLU to gauge public sentiment and identify recurring issues related to water access and resource management. The AI then incorporates these insights to improve water distribution strategies, making the system more responsive to community needs.
 
-Speech to Text
+4. Speech to Text
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
 
-Text to Speech
-HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of their literacy level—can access critical updates and instructions on managing water resources.
+5. Text to Speech
+HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of the ir literacy level—can access critical updates and instructions on managing water resources.
 
-Language Translator
+6. Language Translator
 The Language Translator service is crucial for HydroConnect’s scalability across different regions in Africa. Given the diversity of languages spoken in these areas, the platform uses IBM’s Language Translator to convert its content—such as water conservation tips and community alerts—into multiple local languages. This ensures that language barriers don’t hinder equitable access to water resources or the adoption of water-saving practices.
 
   - [Solution architecture](#solution-architecture)
