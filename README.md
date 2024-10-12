@@ -132,7 +132,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://vimeo.com/1018918117?share=copy)]([https://vimeo.com/1018918117?share=copy](https://vimeo.com/1018918117?share=copy))
+[![Watch the video](https://vimeo.com/1018918117?share=copy)]([https://vimeo.com/1018918117?share=copy](https://vimeo.com/1018918117?share=copy)
 
 ### Project development roadmap
 
