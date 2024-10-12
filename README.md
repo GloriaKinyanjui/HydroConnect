@@ -85,19 +85,6 @@ Water scarcity is one of the greatest challenges facing global communities today
 
 HydroConnect is designed to address these inefficiencies by using AI and real-time data to enhance water resource management. Our platform enables users, water management organizations, and municipalities to monitor water consumption, predict future shortages, and optimize water distribution. By leveraging IBM’s Watson AI tools, HydroConnect provides predictive analytics, helping communities prepare for dry periods and conserve resources more effectively.
 
-The platform works by integrating various data sources, such as weather forecasts, community water usage patterns, and sensor data from water stations. Using Watson AI's advanced machine learning algorithms, HydroConnect analyzes this data to provide insights, such as:
-
-1. Water Consumption Patterns: Real-time data on community usage patterns is analyzed to detect inefficiencies or overuse. This helps households, farms, and industries adjust their water consumption habits.
-2. Predictive Shortage Alerts: AI models predict upcoming water shortages based on weather data and usage trends, allowing communities to prepare and manage resources proactively.
-3. Automated Conservation Suggestions: The system suggests actionable measures, such as staggered water distribution or rainwater harvesting, to optimize water use during high-demand periods.
-4. Sustainability and Climate Impact Tracking: HydroConnect generates reports that show the impact of water conservation efforts, aligning with global sustainability goals.
-
-What sets HydroConnect apart from existing solutions is its accessibility and user-centric design. We aim to provide a platform that is easily accessible to communities with limited digital literacy, ensuring that even those without smartphones can receive important alerts through SMS. The system is designed to work both in high-connectivity urban areas and low-connectivity rural environments. We also partner with local water management bodies to ensure seamless integration with existing infrastructure.
-
-Additionally, HydroConnect leverages IBM Watson Assistant to provide a conversational AI interface, allowing users to interact with the platform in multiple languages, including Swahili, making it more inclusive. Whether it's asking about water availability or understanding usage patterns, users can communicate with the system in natural language, receiving guidance and updates in a user-friendly manner.
-
-In conclusion, HydroConnect offers a comprehensive solution that not only addresses the immediate water scarcity challenges faced by communities but also empowers them with AI-driven insights for long-term sustainability. By providing predictive analytics, efficient water usage tracking, and conservation recommendations, we aim to improve water accessibility, reduce wastage, and contribute to global sustainability efforts.
-
 More detail is available in our [description document](./docs/DESCRIPTION.md).
 
 ## Technology implementation
