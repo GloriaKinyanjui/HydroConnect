@@ -11,7 +11,6 @@ What sets HydroConnect apart from existing solutions is its accessibility and us
 
 Additionally, HydroConnect leverages IBM Watson Assistant to provide a conversational AI interface, allowing users to interact with the platform in multiple languages, including Swahili, making it more inclusive. Whether it's asking about water availability or understanding usage patterns, users can communicate with the system in natural language, receiving guidance and updates in a user-friendly manner.
 
-In conclusion, HydroConnect offers a comprehensive solution that not only addresses the immediate water scarcity challenges faced by communities but also empowers them with AI-driven insights for long-term sustainability. By providing predictive analytics, efficient water usage tracking, and conservation recommendations, we aim to improve water accessibility, reduce wastage, and contribute to global sustainability efforts.
 
 [Project website](https://www.behance.net/gallery/206582655/HydroConnect)
 
@@ -25,11 +24,11 @@ Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpa
 
 ### Subsection 1.2
 
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+[Prototype](https://www.figma.com/proto/uVr5M0N4byj9Rq7Qmhha5k/LOW-FIDELITY-PROTOTYPE?node-id=625-9&node-type=CANVAS&t=IT8SzhMSiDfsY6z7-0&scaling=scale-down&content-scaling=fixed&page-id=604%253A12&starting-point-node-id=625%3A9)
 
 ## Conclusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+In conclusion, HydroConnect offers a comprehensive solution that not only addresses the immediate water scarcity challenges faced by communities but also empowers them with AI-driven insights for long-term sustainability. By providing predictive analytics, efficient water usage tracking, and conservation recommendations, we aim to improve water accessibility, reduce wastage, and contribute to global sustainability efforts.
 
 ### Results
 Impact Metrics for HydroConnect: 
