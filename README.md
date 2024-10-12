@@ -132,9 +132,8 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](C:\Users\pc\Downloads\thumb.jpg)](https://vimeo.com/1018918117?share=copy#t=0)
+[![Watch the video]([C:\Users\pc\Downloads\thumb.jpg](https://www.canva.com/design/DAGTXtf3jOM/52_5H3GrLpGxK6sbJdPccQ/view?utm_content=DAGTXtf3jOM&utm_campaign=designshare&utm_medium=link&utm_source=editor))](https://vimeo.com/1018918117?share=copy#t=0)
 
-(<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018918117?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="HydroConnect"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>)
 
 ### Project development roadmap
 
