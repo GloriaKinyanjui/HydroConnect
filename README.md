@@ -54,9 +54,6 @@ The Language Translator service is crucial for HydroConnect’s scalability acro
   - [Solution architecture](#solution-architecture)
 - [Presentation materials](#presentation-materials)
   - [Solution demo video](#solution-demo-video)
-
-https://vimeo.com/1018918117?share=copy
-
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
@@ -135,7 +132,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://vimeo.com/1018918117?share=copy)](https://vimeo.com/1018918117?share=copy)
 
 ### Project development roadmap
 
