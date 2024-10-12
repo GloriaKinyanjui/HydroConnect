@@ -133,7 +133,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 ### Solution demo video
 
 
-[![Watch the video](C:\Users\pc\Downloads\hydro thumbnail.JPG)](https://vimeo.com/1018918117?share=copy)
+[![Watch the video](<iframe title="vimeo-player" src="https://player.vimeo.com/video/1018918117?h=cb8950b710" width="640" height="360" frameborder="0"    allowfullscreen></iframe>)](https://vimeo.com/1018918117?share=copy)
 
 ### Project development roadmap
 
