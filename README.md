@@ -54,6 +54,9 @@ The Language Translator service is crucial for HydroConnect’s scalability acro
   - [Solution architecture](#solution-architecture)
 - [Presentation materials](#presentation-materials)
   - [Solution demo video](#solution-demo-video)
+
+https://vimeo.com/1018918117?share=copy
+
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
