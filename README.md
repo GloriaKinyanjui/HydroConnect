@@ -132,8 +132,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video]([C:\Users\pc\Downloads\thumb.jpg](https://www.canva.com/design/DAGTXtf3jOM/52_5H3GrLpGxK6sbJdPccQ/view?utm_content=DAGTXtf3jOM&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://vimeo.com/1018918117?share=copy#t=0)
-
+[![Watch the video](https://www.canva.com/design/DAGTXtf3jOM/52_5H3GrLpGxK6sbJdPccQ/view?utm_content=DAGTXtf3jOM&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://vimeo.com/1018918117?share=copy#t=0)
 
 ### Project development roadmap
 
