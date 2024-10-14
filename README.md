@@ -46,7 +46,7 @@ HydroConnect uses Watson’s Natural Language Understanding (NLU) service to ana
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
 
 5. Text to Speech
-HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of the ir literacy level—can access critical updates and instructions on managing water resources.
+HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of their literacy level—can access critical updates and instructions on managing water resources.
 
 6. Language Translator
 The Language Translator service is crucial for HydroConnect’s scalability across different regions in Africa. Given the diversity of languages spoken in these areas, the platform uses IBM’s Language Translator to convert its content—such as water conservation tips and community alerts—into multiple local languages. This ensures that language barriers don’t hinder equitable access to water resources or the adoption of water-saving practices.
