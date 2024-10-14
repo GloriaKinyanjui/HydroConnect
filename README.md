@@ -123,7 +123,7 @@ INSTRUCTIONS: List any other IBM technology or IBM AI services used in your solu
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Solution](Solution architecture diagram.jpg)
+![Solution](e0b492d111847854764eab62e7802ba9f3c7d784)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
