@@ -19,8 +19,7 @@ Additionally, HydroConnect leverages IBM Watson Assistant to provide a conversat
 Solution Architecture: HydroConnect
 
 1. Data Collection and Ingestion:
-
-Water Usage Sensors: IoT sensors installed in water systems collect real-time data on water consumption at the household, community, and regional levels. These sensors track daily water usage, infrastructure conditions, and potential leakage points.
+Water Usage Sensors: IoT sensors installed in water systems will collect real-time data on water consumption at the household, community, and regional levels. These sensors track daily water usage, infrastructure conditions, and potential leakage points.
 
 2. Weather Data: Real-time weather data is integrated into the platform to predict upcoming rainfall or drought conditions, which can impact water supply.
 
