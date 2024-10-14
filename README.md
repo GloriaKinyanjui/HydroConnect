@@ -123,7 +123,7 @@ INSTRUCTIONS: List any other IBM technology or IBM AI services used in your solu
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Solution](Solution architecture diagram.jpg)
+![Solution](https://github.com/GloriaKinyanjui/HydroConnect/commit/91bd9186d599cc30044e22b2eb12125f25e74aa4)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
