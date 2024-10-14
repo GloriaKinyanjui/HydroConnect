@@ -7,10 +7,11 @@ The platform works by integrating various data sources, such as weather forecast
 3. Automated Conservation Suggestions: The system suggests actionable measures, such as staggered water distribution or rainwater harvesting, to optimize water use during high-demand periods.
 4. Sustainability and Climate Impact Tracking: HydroConnect generates reports that show the impact of water conservation efforts, aligning with global sustainability goals.
 
-What sets HydroConnect apart from existing solutions is its accessibility and user-centric design. We aim to provide a platform that is easily accessible to communities with limited digital literacy, ensuring that even those without smartphones can receive important alerts through SMS. The system is designed to work both in high-connectivity urban areas and low-connectivity rural environments. We also intend to partner with local water management bodies to ensure seamless integration with existing infrastructure.
+What sets HydroConnect apart from existing solutions is:
 
-(ii) Unlike broader solutions that are often generalized, Hydroconnect will begin with tailored, hyper-local solutions for Kenyan communities and expand globally. Hydroconnect starts small, solving Kenya’s water crisis, but with scalable technology that can be adapted globally.
-Hydroconnect’s strength lies in water management and conservation. AI-powered insights predict water demand and optimize community usage patterns Hydroconnect is unique in focusing on how communities can actively manage and conserve water to add the monitoring of water quality.
+(i) its accessibility and user-centric design. We aim to provide a platform that is easily accessible to communities with limited digital literacy, ensuring that even those without smartphones can receive important alerts through SMS. The system is designed to work both in high-connectivity urban areas and low-connectivity rural environments. We also intend to partner with local water management bodies to ensure seamless integration with existing infrastructure.
+
+(ii) Unlike broader solutions that are often generalized, Hydroconnect will begin with tailored, hyper-local solutions for Kenyan communities and expand globally. Hydroconnect starts small, solving Kenya’s water crisis, but with scalable technology that can be adapted globally. Hydroconnect’s strength lies in water management and conservation. AI-powered insights predict water demand and optimize community usage patterns Hydroconnect is unique in focusing on how communities can actively manage and conserve water to add the monitoring of water quality.
 
 (iii) Partnership Opportunities with local governments, NGOs, and international organizations is in the future for Hydroconnect to integrate into larger water sustainability goals like SDG 6 (Clean Water and Sanitation).Hydroconnect is positioned for global partnerships that align with international sustainability goals, bringing lasting impact.
 
