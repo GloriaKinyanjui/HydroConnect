@@ -69,13 +69,13 @@ In conclusion, HydroConnect offers a comprehensive solution that not only addres
 ### Results
 Impact Metrics for HydroConnect: 
 
-20% Reduction in Water Wastage: HydroConnect's early projections indicate that users could potentially reduce water wastage by up to 20% in urban areas.
+- 20% Reduction in Water Wastage: HydroConnect's early projections indicate that users could potentially reduce water wastage by up to 20% in urban areas.
 
-50,000 Active Users in the first year: Projected to reach 50,000 active users within the first year, driven by strategic marketing and partnerships.
+- 50,000 Active Users in the first year: Projected to reach 50,000 active users within the first year, driven by strategic marketing and partnerships.
 
-85% Daily Engagement: High user engagement, with 85% of users interacting with the app daily.
+- 85% Daily Engagement: High user engagement, with 85% of users interacting with the app daily.
 
-95% User Satisfaction: Beta testing showed a 95% satisfaction rate, with users appreciating the intuitive interface and actionable insights.
+- 95% User Satisfaction: Beta testing showed a 95% satisfaction rate, with users appreciating the intuitive interface and actionable insights.
 
 Empowering Communities: 78% of users reported a better understanding of their water consumption, feeling more in control of their usage.
 
