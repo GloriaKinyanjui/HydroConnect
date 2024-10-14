@@ -125,11 +125,14 @@ Diagram and step-by-step description of the flow of our solution:
 
 ![Video transcription/translaftion app](https://github.com/GloriaKinyanjui/HydroConnect/blob/main/Solution%20architecture%20diagram.jpg?raw=true)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
-
+1. The user accesses the HydroConnect platform by logging in through a secure authentication process. Upon login, they are directed to the main dashboard, which displays their community's water usage and current water levels.
+2. HydroConnect integrates with IoT water sensors installed in homes and public water stations. These sensors continuously monitor water usage and report the data to the platform in real time.
+3. The collected data is processed using IBM Watson AI, which identifies water usage patterns across different households and communities. AI analyzes this data for insights like peak consumption times, potential wastage, and anomalies in usage
+4. Watson AI's machine learning models generate predictive insights, helping users anticipate shortages or potential overuse. If any concerning patterns are detected, HydroConnect sends alerts to the user via the platform's notification system.
+5. Users can view detailed reports of water usage at both the household and community levels. The Community Analytics Page displays aggregated data and provides suggestions on how the community can improve water conservation, powered by Watson’s recommendation algorithms.
+6. Based on Watson's analysis, HydroConnect offers personalized water-saving tips and suggestions to users. These tips are displayed on the dashboard and can be sent via email or SMS.
+7. Users can generate comprehensive water usage reports for specific periods. These reports can be downloaded or shared with local water authorities and community leaders to help with policy-making and improving water management practices.
+   
 ## Presentation materials
 
 _INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
