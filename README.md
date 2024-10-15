@@ -140,7 +140,7 @@ See below for our proposed schedule on next steps after Call for Code 2024 submi
 
 ## Additional details
 
-HydroConnect was born out of my personal experience growing up in rural Kenya, where access to clean water was a constant challenge. I remember the long walks to fetch water and the strain it placed on families. These early experiences shaped my desire to create a solution that addresses water scarcity and empowers communities. While working solo on this project, I’ve poured my passion into designing a user-friendly platform that can help families and communities track and optimize water usage to minimize waste and ensure sustainability.
+HydroConnect was born out of my personal experience growing up in Kenya, where access to clean water was a constant challenge. I remember the long walks to fetch water and the strain it placed on families. These early experiences shaped my desire to create a solution that addresses water scarcity and empowers communities. While working solo on this project, I’ve poured my passion into designing a user-friendly platform that can help families and communities track and optimize water usage to minimize waste and ensure sustainability.
 
 The design phase of HydroConnect has been completed using Figma, where I’ve developed the platform’s key features, including real-time water usage tracking, AI-based water conservation tips, and community analytics. Though I haven’t yet implemented the code, I’ve structured a clear roadmap for how the platform will integrate with IBM’s Watson AI for data processing and predictive analytics. I’m also looking forward to collaborating with skilled developers to turn this vision into a fully functioning product that supports both urban and rural communities.
 
