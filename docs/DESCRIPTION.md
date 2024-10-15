@@ -9,7 +9,7 @@ The platform works by integrating various data sources, such as weather forecast
 
 What sets HydroConnect apart from existing solutions is:
 
-(i) its accessibility and user-centric design. We aim to provide a platform that is easily accessible to communities with limited digital literacy, ensuring that even those without smartphones can receive important alerts through SMS. The system is designed to work both in high-connectivity urban areas and low-connectivity rural environments. We also intend to partner with local water management bodies to ensure seamless integration with existing infrastructure.
+(i) Its accessibility and user-centric design. We aim to provide a platform that is easily accessible to communities with limited digital literacy, ensuring that even those without smartphones can receive important alerts through SMS. The system is designed to work both in high-connectivity urban areas and low-connectivity rural environments. We also intend to partner with local water management bodies to ensure seamless integration with existing infrastructure.
 
 (ii) Unlike broader solutions that are often generalized, Hydroconnect will begin with tailored, hyper-local solutions for Kenyan communities and expand globally. Hydroconnect starts small, solving Kenya’s water crisis, but with scalable technology that can be adapted globally. Hydroconnect’s strength lies in water management and conservation. AI-powered insights predict water demand and optimize community usage patterns Hydroconnect is unique in focusing on how communities can actively manage and conserve water to add the monitoring of water quality.
 
