@@ -41,11 +41,11 @@ HydroConnect improves upon existing solutions by integrating AI-driven forecasti
 - [Technology implementation](#technology-implementation)
   - [IBM watsonx product(s) used](#ibm-ai-services-used)
 
-1. watsonx.ai: HydroConnect uses Watsonx.ai for real-time water consumption analysis and AI-driven insights. It processes data from water usage sensors and generates predictions on future water demand, enabling the platform to suggest conservation techniques and manage equitable distribution.
+1. Watsonx.ai: HydroConnect uses Watsonx.ai for real-time water consumption analysis and AI-driven insights. It processes data from water usage sensors and generates predictions on future water demand, enabling the platform to suggest conservation techniques and manage equitable distribution.
 
-2. watsonx.governance: This product is used to ensure that all AI-generated insights and decisions within HydroConnect comply with governance rules and regulations, particularly around equitable distribution and ethical resource management.
+2. Watsonx.governance: This product is used to ensure that all AI-generated insights and decisions within HydroConnect comply with governance rules and regulations, particularly around equitable distribution and ethical resource management.
 
-3. watsonx Assistant: The Watsonx Assistant enables HydroConnect to provide interactive, AI-driven communication with users, offering personalized water conservation tips and answering user questions regarding water supply in their area. This assistant also facilitates real-time support and alerts.
+3. Watsonx Assistant: The Watsonx Assistant enables HydroConnect to provide interactive, AI-driven communication with users, offering personalized water conservation tips and answering user questions regarding water supply in their area. This assistant also facilitates real-time support and alerts.
 
   - [Other IBM technology used](#other-ibm-technology-used)
 
