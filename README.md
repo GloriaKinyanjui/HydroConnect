@@ -113,11 +113,26 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1: Real-Time Water Usage Monitoring
+HydroConnect allows users to track real-time water consumption data through IoT sensors installed in their homes or communities. This data is processed and visualized through a user-friendly dashboard, giving users and water authorities a clear understanding of how water is being used in various regions.
+- Feature 2: : AI-Powered Predictive Insights
+Using IBM Watson AI, HydroConnect analyzes water usage patterns and forecasts future demand. The AI generates predictions on water shortages and provides communities with early warnings, helping them take proactive measures to manage water resources more efficiently.
+- Feature 3: Community-Based Analytics and Recommendations
+HydroConnect aggregates water consumption data at a community level and generates insights that help local governments and NGOs make data-driven decisions. The platform also provides personalized water conservation recommendations to users, encouraging collective action to prevent wastage.
 
-In the future we plan to...
+In the future we plan to:
+
+1. Expand Geographic Reach
+Scale the platform to more communities across Kenya and other African countries affected by water scarcity. We aim to collaborate with local governments and international NGOs to bring HydroConnect to regions where water management infrastructure is limited.
+
+2. Introduce Multilingual Support
+To ensure accessibility in diverse regions, we will integrate IBM Watson Language Translator to offer HydroConnect’s services in multiple African languages. This will help bridge language barriers and increase the adoption of the platform in rural areas.
+
+3. AI-Enhanced Water Resource Management
+We plan to deepen the use of AI, moving beyond water usage prediction to include smart water distribution that dynamically adjusts based on consumption patterns, available resources, and community needs. This will help optimize water allocation in areas experiencing scarcity.
+
+4. Educational and Training Modules
+Incorporate training modules that teach users about water conservation, empowering them to be more proactive in managing their resources. This feature will promote sustainability through community education.
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
 
