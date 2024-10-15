@@ -2,6 +2,27 @@
 
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
+  - [How our technology solution can help](#how-our-technology-solution-can-help)
+  - [Our idea](#our-idea)
+- [Technology implementation](#technology-implementation)
+  - [IBM watsonx product(s) used](#ibm-ai-services-used)
+  - [Other IBM technology used](#other-ibm-technology-used)
+  - [Solution architecture](#solution-architecture)
+- [Presentation materials](#presentation-materials)
+  - [Solution demo video](#solution-demo-video)
+  - [Project development roadmap](#project-development-roadmap)
+- [Additional details](#additional-details)
+  - [How to run the project](#how-to-run-the-project)
+  - [Live demo](#live-demo)
+- [About this template](#about-this-template)
+  - [Contributing](#contributing)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+
+- [Project summary](#project-summary)
+  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
 
     Communities in Africa, particularly women and children, face severe challenges in accessing clean water due to uneven distribution, climate change, and inefficient water resource management. HydroConnect aims to solve this sustainability problem by ensuring equitable access to water through AI-powered insights and efficient resource management.
   - [How our technology solution can help](#how-our-technology-solution-can-help)
@@ -51,19 +72,7 @@ HydroConnect employs Text to Speech to make information more accessible to users
 6. Language Translator
 The Language Translator service is crucial for HydroConnect’s scalability across different regions in Africa. Given the diversity of languages spoken in these areas, the platform uses IBM’s Language Translator to convert its content—such as water conservation tips and community alerts—into multiple local languages. This ensures that language barriers don’t hinder equitable access to water resources or the adoption of water-saving practices.
 
-  - [Solution architecture](#solution-architecture)
-- [Presentation materials](#presentation-materials)
-  - [Solution demo video](#solution-demo-video)
-  - [Project development roadmap](#project-development-roadmap)
-- [Additional details](#additional-details)
-  - [How to run the project](#how-to-run-the-project)
-  - [Live demo](#live-demo)
-- [About this template](#about-this-template)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+
 
 ## Project summary
 
