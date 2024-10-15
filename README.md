@@ -136,7 +136,7 @@ Incorporate training modules that teach users about water conservation, empoweri
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](https://github.com/GloriaKinyanjui/HydroConnect/blob/main/Merged_document.jpg?raw=true)
 
 ## Additional details
 
