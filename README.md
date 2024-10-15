@@ -140,16 +140,17 @@ See below for our proposed schedule on next steps after Call for Code 2024 submi
 
 ## Additional details
 
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
+HydroConnect was born out of my personal experience growing up in rural Kenya, where access to clean water was a constant challenge. I remember the long walks to fetch water and the strain it placed on families. These early experiences shaped my desire to create a solution that addresses water scarcity and empowers communities. While working solo on this project, I’ve poured my passion into designing a user-friendly platform that can help families and communities track and optimize water usage to minimize waste and ensure sustainability.
 
-### How to run the project
+The design phase of HydroConnect has been completed using Figma, where I’ve developed the platform’s key features, including real-time water usage tracking, AI-based water conservation tips, and community analytics. Though I haven’t yet implemented the code, I’ve structured a clear roadmap for how the platform will integrate with IBM’s Watson AI for data processing and predictive analytics. I’m also looking forward to collaborating with skilled developers to turn this vision into a fully functioning product that supports both urban and rural communities.
 
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+While I am currently working solo, I see HydroConnect growing into a solution driven by teamwork and collaboration. My goal is to take the next steps by bringing technical talent on board, securing funding, and refining the platform’s features to align with the needs of water-stressed communities. The challenge of working alone has only strengthened my resolve, and I am excited to see HydroConnect evolve and make a real-world impact in ensuring water security for all.
+
 
 ### Live demo
 
-You can find a running system to test at...
+You can find a running system to test at:
 
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
+See our [description document](./docs/DESCRIPTION.md) for Project website and Prototype.
 
 ---
