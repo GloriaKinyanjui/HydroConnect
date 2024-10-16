@@ -1,0 +1,30 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HydroConnect Watson Assistant</title>
+</head>
+<body>
+    <h1>Ask Watson Assistant</h1>
+    <input type="text" id="userMessage" placeholder="Type your question...">
+    <button onclick="askWatson()">Send</button>
+
+    <div id="response"></div>
+
+    <script>
+        async function askWatson() {
+            const message = document.getElementById('userMessage').value;
+            const response = await fetch('/ask_watson', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message })
+            });
+            const data = await response.json();
+            document.getElementById('response').innerText = data.output.generic[0].text;
+        }
+    </script>
+</body>
+</html>
