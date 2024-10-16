@@ -1,0 +1,12 @@
+# Sample Python API call to Watson Speech-to-Text
+import json
+from ibm_watson import SpeechToTextV1
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+
+authenticator = IAMAuthenticator('your-api-key')
+speech_to_text = SpeechToTextV1(authenticator=authenticator)
+
+with open('waterdata.wav', 'rb') as audio_file:
+    result = speech_to_text.recognize(audio=audio_file, content_type='audio/wav').get_result()
+
+print(json.dumps(result, indent=2))
