@@ -61,6 +61,8 @@ Watson Studio is employed in HydroConnect to manage data analytics workflows. It
 
 HydroConnect uses Watson’s Natural Language Understanding (NLU) service to analyze and extract key information from community feedback regarding water access. This feedback, which may include written reports or social media discussions, is processed using NLU to gauge public sentiment and identify recurring issues related to water access and resource management. The AI then incorporates these insights to improve water distribution strategies, making the system more responsive to community needs.
 
+ API integration with IBM Watson services (Speech-to-Text or Natural Language Understanding)
+
 4. Speech to Text
 
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
