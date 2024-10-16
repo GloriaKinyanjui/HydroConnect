@@ -61,6 +61,7 @@ This code uses Watsonx.governance to ensure that all AI decisions related to wat
 Here’s how Watsonx Assistant is integrated into HydroConnect to offer real-time support, answer questions, and provide personalized water-saving tips.This code allows users to communicate with Watsonx Assistant, which offers tailored water conservation advice and real-time support.
 
                                        Code can be found on folder named Watsonx Assistant for User Interaction
+                                        https://github.com/GloriaKinyanjui/HydroConnect/commit/c38a1193b70f189890dae43ca8b2e2f72aa5f334
    
 
 ## Sample Data
@@ -89,6 +90,7 @@ This data helps demonstrate how the AI models respond to real-world scenarios an
 In HydroConnect, Watson Machine Learning is used to build and deploy AI models that forecast water demand based on historical and real-time usage data. By analyzing the consumption trends across various communities, the AI models predict future water shortages and surpluses, enabling dynamic and equitable distribution of resources. This helps communities anticipate and plan for upcoming water needs, thereby improving overall water resource management.
 
               Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting
+              https://github.com/GloriaKinyanjui/HydroConnect/commit/802ac7db125fe2166d3e0469f08022522dc22d46
 
 Considerations for African Context:
 
