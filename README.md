@@ -102,8 +102,10 @@ IBM Watson's Text to Speech service will be implemented in Hydroconnect to conve
 6. Language Translator
 
 The Language Translator service is crucial for HydroConnect’s scalability across different regions in Africa. Given the diversity of languages spoken in these areas, the platform uses IBM’s Language Translator to convert its content—such as water conservation tips and community alerts—into multiple local languages. This ensures that language barriers don’t hinder equitable access to water resources or the adoption of water-saving practices.
+Integration with the IBM Watson Language Translator service to translate notifications and tips into different local languages, which is crucial for scaling across Africa's diverse language region.In this example, the Language Translator converts the message from English to Swahili ('sw'). One can change the target language code to translate the message into other local African languages based on the regions where HydroConnect is deployed.
 
 
+                                Code can be found on Language Translator Implementation
 
 ## Project summary
 
