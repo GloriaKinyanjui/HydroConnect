@@ -46,7 +46,8 @@ HydroConnect improves upon existing solutions by integrating AI-driven forecasti
 1. Watsonx.ai: HydroConnect uses Watsonx.ai for real-time water consumption analysis and AI-driven insights. It processes data from water usage sensors and generates predictions on future water demand, enabling the platform to suggest conservation techniques and manage equitable distribution.
 The code below demonstrates how to use Watsonx.ai for processing water consumption data from sensors and providing real-time analysis to predict future demand.This code processes sensor data and sends it to Watsonx.ai for real-time AI predictions, helping HydroConnect suggest conservation techniques and manage equitable water distribution.
 
-                                      Code can be found on folder named Watsonx.ai for Real-time Water Consumption Analysis
+                                      Code can be found on folder named Watsonx.ai for Real-time Water Consumption Analysis: 
+                                      https://github.com/GloriaKinyanjui/HydroConnect/commit/22db08278e08c6bbe85f458958e36f403d9d61bf
 
 2. Watsonx.governance: This product is used to ensure that all AI-generated insights and decisions within HydroConnect comply with governance rules and regulations, particularly around equitable distribution and ethical resource management.
 
