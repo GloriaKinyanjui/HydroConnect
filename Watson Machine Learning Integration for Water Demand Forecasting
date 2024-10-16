@@ -1,0 +1,40 @@
+# Adding specific African data points to the model:
+X = data[['temperature', 'population_density', 'precipitation', 'rainfall_pattern', 'irrigation_needs', 'drought_index']]
+
+# Import necessary libraries
+from ibm_watson_machine_learning import APIClient
+import pandas as pd
+
+# Set up Watson Machine Learning client
+wml_credentials = {
+    "url": "https://us-south.ml.cloud.ibm.com",
+    "apikey": "YOUR_API_KEY"
+}
+
+wml_client = APIClient(wml_credentials)
+
+# Load and preprocess historical water usage data
+data = pd.read_csv('water_usage.csv')
+X = data[['temperature', 'population_density', 'precipitation']]
+y = data['water_demand']
+
+# Build the model pipeline
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+# Train the model
+model = RandomForestRegressor()
+model.fit(X_train, y_train)
+
+# Deploy the model using Watson Machine Learning
+metadata = {
+    wml_client.repository.ModelMetaNames.NAME: 'Water Demand Prediction Model',
+    wml_client.repository.ModelMetaNames.TYPE: 'scikit-learn_0.20',
+    wml_client.repository.ModelMetaNames.RUNTIME_UID: 'python-3.8',
+}
+
+# Save and deploy model
+model_details = wml_client.repository.store_model(model, meta_props=metadata)
+deployment = wml_client.deployments.create(model_details['metadata']['guid'], name='Water Demand Forecasting')
