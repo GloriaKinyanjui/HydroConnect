@@ -1,5 +1,4 @@
-### Figma Design to HTML
-The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `/frontend` folder. You can open `index.html` to view the design in a browser.
+
 <div style={{width: 430, height: 932, position: 'relative', background: 'white'}}>
   <img style={{width: 91, height: 110, left: 170, top: 407, position: 'absolute'}} src="https://via.placeholder.com/91x110" />
 </div>
