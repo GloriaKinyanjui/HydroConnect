@@ -1,0 +1,16 @@
+# Import Watson API for Speech to Text
+from ibm_watson import SpeechToTextV1
+
+speech_to_text = SpeechToTextV1(
+    iam_apikey='your-api-key',
+    url='your-service-url'
+)
+
+# Load audio and call Watson Speech to Text
+with open('audio-file.wav', 'rb') as audio_file:
+    speech_recognition_results = speech_to_text.recognize(
+        audio=audio_file,
+        content_type='audio/wav'
+    ).get_result()
+
+print(speech_recognition_results)
