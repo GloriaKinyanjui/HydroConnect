@@ -1,0 +1,7 @@
+# Using Watson NLU for sentiment analysis on water-related text
+from ibm_watson import NaturalLanguageUnderstandingV1
+from ibm_watson.natural_language_understanding_v1 import Features, SentimentOptions
+
+nlu = NaturalLanguageUnderstandingV1(version='2023-08-01', authenticator=IAMAuthenticator('your-api-key'))
+response = nlu.analyze(text='Water levels in Nairobi have dropped significantly.', features=Features(sentiment=SentimentOptions())).get_result()
+print(response)
