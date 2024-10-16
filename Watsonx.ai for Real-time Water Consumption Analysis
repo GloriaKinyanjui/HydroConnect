@@ -1,0 +1,27 @@
+# Import necessary libraries for Watsonx.ai
+from ibm_watson_machine_learning import APIClient
+import pandas as pd
+
+# Set up Watson Machine Learning API Client
+wml_credentials = {
+    "url": "YOUR_WATSONX_AI_URL",
+    "apikey": "YOUR_API_KEY"
+}
+client = APIClient(wml_credentials)
+
+# Load data from water consumption sensors
+def load_water_data():
+    water_data = pd.read_csv('sensor_data.csv')  # Example sensor data
+    return water_data
+
+# Analyze and predict future water demand
+def predict_water_demand(water_data):
+    deployment_id = 'YOUR_DEPLOYMENT_ID'
+    model_input = water_data.to_dict(orient='split')
+    
+    predictions = client.deployments.score(deployment_id, model_input)
+    print(predictions)  # Example prediction output for water demand
+
+# Example usage
+water_data = load_water_data()
+predict_water_demand(water_data)
