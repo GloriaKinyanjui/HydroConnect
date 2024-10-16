@@ -1,0 +1,27 @@
+# Install required libraries for Watson Studio
+!pip install pandas
+!pip install ibm-watson-machine-learning
+
+# Import libraries for data processing
+import pandas as pd
+
+# Load water usage dataset
+data = pd.read_csv('sensor_water_usage.csv')
+
+# Preprocess the data
+data['timestamp'] = pd.to_datetime(data['timestamp'])
+data = data.dropna()
+
+# Feature engineering - create new features based on existing data
+data['hour_of_day'] = data['timestamp'].dt.hour
+data['day_of_week'] = data['timestamp'].dt.dayofweek
+
+# Basic data summary
+print(data.describe())
+
+# Save cleaned data back to Object Storage or database
+data.to_csv('cleaned_water_usage.csv', index=False)
+
+# Connect to Watson Studio for further processing
+# Watson Studio is used here to collaborate with data scientists and refine models continuously
+# This code assumes Watson Studio is used to automate and manage various stages of the data lifecycle
