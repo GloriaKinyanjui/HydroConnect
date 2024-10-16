@@ -38,6 +38,8 @@ Key Features of HydroConnect:
 5. Community-Centric: HydroConnect fosters community engagement by providing AI-generated suggestions and insights on how to optimize water usage, helping communities make data-driven decisions about water conservation.
 
 HydroConnect improves upon existing solutions by integrating AI-driven forecasting and user-friendly technology to provide a comprehensive, real-time view of water resource management. Unlike traditional water monitoring systems that may be static or inefficient, HydroConnect continuously evolves, allowing communities to react to changing water availability and prepare for future shortages. It addresses a critical gap by ensuring that water allocation is fair, informed, and adaptable, with the goal of improving access to this vital resource.
+
+
 - [Technology implementation](#technology-implementation)
   - [IBM watsonx product(s) used](#ibm-ai-services-used)
 
@@ -55,6 +57,21 @@ This code uses Watsonx.governance to ensure that all AI decisions related to wat
 Here’s how Watsonx Assistant is integrated into HydroConnect to offer real-time support, answer questions, and provide personalized water-saving tips.This code allows users to communicate with Watsonx Assistant, which offers tailored water conservation advice and real-time support.
 
                                        Code can be found on folder named Watsonx Assistant for User Interaction
+
+## Sample Data
+
+https://github.com/GloriaKinyanjui/HydroConnect/commit/8cc22af25f284f7975dd4aa4ea0195daa71b294b
+
+The sample data in this repository simulates water usage and conversation inputs for the HydroConnect platform. 
+
+1. **Watson Assistant**: Use the `conversation_samples.csv` to test the chatbot with pre-defined prompts related to water conservation tips.
+2. **Watsonx.ai**: The `water_usage_samples.csv` contains historical water usage data for testing prediction algorithms and AI insights.
+
+This data helps demonstrate how the AI models respond to real-world scenarios and provide actionable insights.
+
+
+
+
 
 
 
