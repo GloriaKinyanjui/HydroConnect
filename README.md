@@ -116,6 +116,7 @@ Watson Studio is employed in HydroConnect to manage data analytics workflows. It
 Watson Studio is instrumental in managing data analytics workflows, collaborating on datasets, and refining AI models. Below is a code snippet that shows how to clean and process large datasets from water sensors using Watson Studio.Watson Studio is used to preprocess the sensor data by handling missing values and creating new features like the time of day and day of the week. The cleaned data can then be uploaded to Object Storage or shared within Watson Studio to build more accurate models.
 
                    Code can be found on file named Watson Studio Integration for Data Management
+                   https://github.com/GloriaKinyanjui/HydroConnect/commit/8c151554893d26b5430f5975bdde2481a1549bd0
 
 
 3. Natural Language Understanding
@@ -127,6 +128,7 @@ Code found on the folder named: Using Watson NLU for sentiment analysis on water
 
                
                Code found on the folder named: API integration with IBM Watson services (Speech-to-Text or Natural Language Understanding)
+              https://github.com/GloriaKinyanjui/HydroConnect/commit/281037eac8dc78b1afad38dbd7234e2da516919f
 
 4. Speech to Text
 
@@ -140,7 +142,9 @@ The `watson_speech_to_text` file shows integration of IBM Watson Speech-to-Text 
 HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of their literacy level—can access critical updates and instructions on managing water resources.
 IBM Watson's Text to Speech service will be implemented in Hydroconnect to convert key notifications or tips into speech, which is crucial for users in rural areas with low literacy levels.This code takes a text notification and converts it into an audio file (output_audio.wav) that can be sent to users. You can modify it to include other language voices if needed.
                                
-                                Code can be found on folder named Text to Speech Implementation
+                                Code can be found on folder named Text to Speech Implementation:
+                                https://github.com/GloriaKinyanjui/HydroConnect/commit/ce7a523b848e6c5608fcb0040b103ca251511b7e
+                                
 
 6. Language Translator
 
@@ -148,7 +152,8 @@ The Language Translator service is crucial for HydroConnect’s scalability acro
 Integration with the IBM Watson Language Translator service to translate notifications and tips into different local languages, which is crucial for scaling across Africa's diverse language region.In this example, the Language Translator converts the message from English to Swahili ('sw'). One can change the target language code to translate the message into other local African languages based on the regions where HydroConnect is deployed.
 
 
-                                Code can be found on Language Translator Implementation
+                                Code can be found on Language Translator Implementation:
+                                https://github.com/GloriaKinyanjui/HydroConnect/commit/0435d77a732b05b63da4c3ecde3cfea4b54577c1
 
 ## Project summary
 
