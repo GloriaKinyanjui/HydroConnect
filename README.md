@@ -73,6 +73,10 @@ Urban Water Planning: In cities like Lagos, Nairobi, or Cape Town, where urban w
 2. Watson Studio
 
 Watson Studio is employed in HydroConnect to manage data analytics workflows. It helps with cleaning and processing large datasets collected from water usage sensors and other sources. Using Watson Studio, the team was able to collaborate on data models that deliver actionable insights on water consumption patterns. This platform allows for continuous model training and refinement, ensuring the AI predictions remain accurate and relevant as more data is collected.
+Watson Studio is instrumental in managing data analytics workflows, collaborating on datasets, and refining AI models. Below is a code snippet that shows how to clean and process large datasets from water sensors using Watson Studio.Watson Studio is used to preprocess the sensor data by handling missing values and creating new features like the time of day and day of the week. The cleaned data can then be uploaded to Object Storage or shared within Watson Studio to build more accurate models.
+
+                   Code can be found on file named Watson Studio Integration for Data Management
+
 
 3. Natural Language Understanding
 
@@ -83,6 +87,7 @@ HydroConnect uses Watson’s Natural Language Understanding (NLU) service to ana
 4. Speech to Text
 
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
+
 The `watson_speech_to_text` file shows integration of IBM Watson Speech-to-Text API to convert audio files into text. This is used for processing community feedback related to water usage.
 
 
