@@ -1,0 +1,26 @@
+# Watsonx.governance API integration for ensuring compliance
+
+from ibm_watson import Governance
+
+# Set up Governance API
+governance_credentials = {
+    "apikey": "YOUR_API_KEY",
+    "url": "YOUR_WATSONX_GOVERNANCE_URL"
+}
+governance = Governance(authenticator=IAMAuthenticator(governance_credentials['apikey']))
+
+# Function to check governance compliance of AI decisions
+def check_ai_governance(decision_data):
+    response = governance.check_compliance(decision_data)
+    if response.get('compliance') == 'pass':
+        print("AI decision is compliant with governance policies.")
+    else:
+        print("Non-compliant AI decision.")
+    
+# Example decision data and compliance check
+decision_data = {
+    'resource_allocation': 'water_distribution',
+    'decision': '20% more water to region A',
+    'rules_applied': ['equitable_distribution', 'ethics']
+}
+check_ai_governance(decision_data)
