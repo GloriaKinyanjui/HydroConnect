@@ -79,8 +79,9 @@ iv. Adaptable for Rural and Urban Settings: The African continent has a mix of h
 v. Localized Variables: Variables specific to the African continent, such as seasonal rainfall patterns (e.g., long and short rains in East Africa), agricultural water needs, and migration patterns, could be included to make the model more accurate.
 
 How This Benefits the Continent:
-Drought Prediction: Countries like Kenya, Ethiopia, and Nigeria could benefit from forecasting water shortages, helping governments and NGOs to prepare for droughts.
-Urban Water Planning: In cities like Lagos, Nairobi, or Cape Town, where urban water demand is rapidly increasing, the model can be used to predict surges in water usage and plan accordingly.
+
+-Drought Prediction: Countries like Kenya, Ethiopia, and Nigeria could benefit from forecasting water shortages, helping governments and NGOs to prepare for droughts.
+-Urban Water Planning: In cities like Lagos, Nairobi, or Cape Town, where urban water demand is rapidly increasing, the model can be used to predict surges in water usage and plan accordingly.
 
 2. Watson Studio
 
