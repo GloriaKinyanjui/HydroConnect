@@ -1,0 +1,54 @@
+Sample Code for Watson Assistant
+This will enable HydroConnect to interact with the assistant by answering user questions like "How can I conserve water?"
+
+
+
+from ibm_watson import AssistantV2
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+
+# Setup Watson Assistant
+authenticator = IAMAuthenticator('your-api-key')
+assistant = AssistantV2(
+    version='2024-10-03',
+    authenticator=authenticator
+)
+assistant.set_service_url('your-service-url')
+
+# Start a session and get a response
+session_id = assistant.create_session(
+    assistant_id='your-assistant-id'
+).get_result()['session_id']
+
+response = assistant.message(
+    assistant_id='your-assistant-id',
+    session_id=session_id,
+    input={'text': 'How can I conserve water?'}
+).get_result()
+
+print(response['output']['generic'][0]['text'])
+
+
+
+
+Sample API: Watsonx.ai Integration 
+For real-time water consumption analysis, you can send sample water usage data to Watsonx.ai for predictions.
+
+
+import requests
+
+url = 'https://watsonx-api-url/v1/predictions'
+headers = {
+    'Authorization': 'Bearer your-access-token',
+    'Content-Type': 'application/json'
+}
+data = {
+    'input_data': [
+        {
+            'fields': ['water_usage', 'time', 'community'],
+            'values': [[120, '2024-10-03 10:00', 'Community A']]
+        }
+    ]
+}
+
+response = requests.post(url, headers=headers, json=data)
+print(response.json())
