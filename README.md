@@ -53,7 +53,7 @@ HydroConnect improves upon existing solutions by integrating AI-driven forecasti
 
 In HydroConnect, Watson Machine Learning is used to build and deploy AI models that forecast water demand based on historical and real-time usage data. By analyzing the consumption trends across various communities, the AI models predict future water shortages and surpluses, enabling dynamic and equitable distribution of resources. This helps communities anticipate and plan for upcoming water needs, thereby improving overall water resource management.
 
-<Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting>
+              Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting
 
 Considerations for African Context:
 i Data Sources: Reliable data on water usage, population density, and weather patterns may not always be readily available in some African regions. The model would need access to localized data from government databases, NGOs, or remote sensors for accurate predictions.
