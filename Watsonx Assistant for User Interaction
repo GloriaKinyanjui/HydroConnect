@@ -1,0 +1,34 @@
+# Import Watson Assistant
+from ibm_watson import AssistantV2
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+
+# Set up Assistant service
+authenticator = IAMAuthenticator('YOUR_API_KEY')
+assistant = AssistantV2(
+    version='2023-10-01',
+    authenticator=authenticator
+)
+assistant.set_service_url('YOUR_ASSISTANT_SERVICE_URL')
+
+# Create a session with Watson Assistant
+session_id = assistant.create_session(
+    assistant_id='YOUR_ASSISTANT_ID'
+).get_result()['session_id']
+
+# Function to interact with the assistant
+def interact_with_assistant(message):
+    response = assistant.message(
+        assistant_id='YOUR_ASSISTANT_ID',
+        session_id=session_id,
+        input={
+            'message_type': 'text',
+            'text': message
+        }
+    ).get_result()
+    
+    return response['output']['generic'][0]['text']
+
+# Example interaction
+user_message = "How can I save water this week?"
+assistant_response = interact_with_assistant(user_message)
+print(assistant_response)  # Displays water-saving tips
