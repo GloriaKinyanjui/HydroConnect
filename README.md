@@ -95,6 +95,9 @@ The `watson_speech_to_text` file shows integration of IBM Watson Speech-to-Text 
 5. Text to Speech
 
 HydroConnect employs Text to Speech to make information more accessible to users in rural communities with low literacy rates. The platform converts key notifications and AI-generated water conservation tips into audio messages, ensuring that all users—regardless of their literacy level—can access critical updates and instructions on managing water resources.
+IBM Watson's Text to Speech service will be implemented in Hydroconnect to convert key notifications or tips into speech, which is crucial for users in rural areas with low literacy levels.This code takes a text notification and converts it into an audio file (output_audio.wav) that can be sent to users. You can modify it to include other language voices if needed.
+                               
+                                Code can be found on folder named Text to Speech Implementation
 
 6. Language Translator
 
