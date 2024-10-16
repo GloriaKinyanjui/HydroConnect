@@ -231,6 +231,13 @@ While I am currently working solo, I see HydroConnect growing into a solution dr
 ### Code in HTML
 The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `frontend html-design` folder.
 
+### Live Code :
+Frontend
+https://github.com/GloriaKinyanjui/HydroConnect/commit/c15977c897fc655829066c77fd755920d2e42459
+
+Backend
+
+
 
 ### Live demo
 
