@@ -56,6 +56,7 @@ In HydroConnect, Watson Machine Learning is used to build and deploy AI models t
               Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting
 
 Considerations for African Context:
+
 i Data Sources: Reliable data on water usage, population density, and weather patterns may not always be readily available in some African regions. The model would need access to localized data from government databases, NGOs, or remote sensors for accurate predictions.
 
 ii. Climate Variability: African countries experience diverse climate conditions—ranging from arid regions like the Sahara to tropical rainforests. The code should account for these differences in the data collection and analysis to ensure accurate predictions. For instance, areas with frequent droughts may require additional features like soil moisture or groundwater levels.
