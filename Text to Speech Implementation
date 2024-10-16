@@ -1,0 +1,21 @@
+# Import necessary libraries
+from ibm_watson import TextToSpeechV1
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+
+# Set up API authentication
+authenticator = IAMAuthenticator('YOUR_API_KEY')
+text_to_speech = TextToSpeechV1(authenticator=authenticator)
+text_to_speech.set_service_url('YOUR_SERVICE_URL')
+
+# Function to convert text to speech
+def convert_text_to_speech(text):
+    with open('output_audio.wav', 'wb') as audio_file:
+        response = text_to_speech.synthesize(
+            text, voice='en-US_AllisonV3Voice', accept='audio/wav'
+        ).get_result()
+        audio_file.write(response.content)
+    print("Audio file saved as 'output_audio.wav'")
+
+# Example use case
+notification_message = "Please conserve water. The forecast predicts a shortage in two days."
+convert_text_to_speech(notification_message)
