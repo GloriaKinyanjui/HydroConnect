@@ -57,6 +57,7 @@ This code uses Watsonx.governance to ensure that all AI decisions related to wat
 Here’s how Watsonx Assistant is integrated into HydroConnect to offer real-time support, answer questions, and provide personalized water-saving tips.This code allows users to communicate with Watsonx Assistant, which offers tailored water conservation advice and real-time support.
 
                                        Code can be found on folder named Watsonx Assistant for User Interaction
+   
 
 ## Sample Data
 
@@ -68,6 +69,8 @@ The sample data in this repository simulates water usage and conversation inputs
 2. **Watsonx.ai**: The `water_usage_samples.csv` contains historical water usage data for testing prediction algorithms and AI insights.
 
 This data helps demonstrate how the AI models respond to real-world scenarios and provide actionable insights.
+
+
 
 
 
