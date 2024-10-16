@@ -81,6 +81,7 @@ v. Localized Variables: Variables specific to the African continent, such as sea
 How This Benefits the Continent:
 
 -Drought Prediction: Countries like Kenya, Ethiopia, and Nigeria could benefit from forecasting water shortages, helping governments and NGOs to prepare for droughts.
+
 -Urban Water Planning: In cities like Lagos, Nairobi, or Cape Town, where urban water demand is rapidly increasing, the model can be used to predict surges in water usage and plan accordingly.
 
 2. Watson Studio
