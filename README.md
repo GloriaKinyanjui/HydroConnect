@@ -208,7 +208,7 @@ The design phase of HydroConnect has been completed using Figma, where I’ve de
 While I am currently working solo, I see HydroConnect growing into a solution driven by teamwork and collaboration. My goal is to take the next steps by bringing technical talent on board, securing funding, and refining the platform’s features to align with the needs of water-stressed communities. The challenge of working alone has only strengthened my resolve, and I am excited to see HydroConnect evolve and make a real-world impact in ensuring water security for all.
 
 
-### Figma Design to HTML
+### Code in HTML
 The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `frontend html-design` folder.
 
 
