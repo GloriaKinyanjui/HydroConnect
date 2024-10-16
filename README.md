@@ -53,7 +53,7 @@ HydroConnect improves upon existing solutions by integrating AI-driven forecasti
 
 In HydroConnect, Watson Machine Learning is used to build and deploy AI models that forecast water demand based on historical and real-time usage data. By analyzing the consumption trends across various communities, the AI models predict future water shortages and surpluses, enabling dynamic and equitable distribution of resources. This helps communities anticipate and plan for upcoming water needs, thereby improving overall water resource management.
 
-Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting
+<Code can be found on folder named- Watson Machine Learning Integration for Water Demand Forecasting>
 
 Considerations for African Context:
 i Data Sources: Reliable data on water usage, population density, and weather patterns may not always be readily available in some African regions. The model would need access to localized data from government databases, NGOs, or remote sensors for accurate predictions.
@@ -83,7 +83,7 @@ Sample of Code found on the folder named: API integration with IBM Watson servic
 4. Speech to Text
 
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
-The `watson_speech_to_text` file integrates IBM Watson Speech-to-Text API to convert audio files into text. This is used for processing community feedback related to water usage.
+The `watson_speech_to_text` file shows integration of IBM Watson Speech-to-Text API to convert audio files into text. This is used for processing community feedback related to water usage.
 
 
 5. Text to Speech
