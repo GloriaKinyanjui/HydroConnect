@@ -66,6 +66,8 @@ Sample of Code found on the folder named: API integration with IBM Watson servic
 4. Speech to Text
 
 The Speech to Text service is integrated into HydroConnect to convert verbal feedback from community members into text data. This feature is particularly useful for users in remote areas where written input might be less accessible. By processing voice inputs, the platform captures a wider range of user concerns and suggestions, which can then be analyzed to enhance the platform's performance and responsiveness.
+The `watson_speech_to_text` file integrates IBM Watson Speech-to-Text API to convert audio files into text. This is used for processing community feedback related to water usage.
+
 
 5. Text to Speech
 
