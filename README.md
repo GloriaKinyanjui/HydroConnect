@@ -162,8 +162,7 @@ While I am currently working solo, I see HydroConnect growing into a solution dr
 
 
 ### Figma Design to HTML
-The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `frontend html-design` folder. You can open to view the design in a browser.
- [description document](.frontend html-design) 
+The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `frontend html-design` folder.
 
 
 ### Live demo
