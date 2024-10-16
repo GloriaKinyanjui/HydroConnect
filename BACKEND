@@ -1,0 +1,32 @@
+Sending data to Watson Assistant and receiving a response
+
+
+pip install flask ibm-watson
+
+from flask import Flask, request, jsonify
+from ibm_watson import AssistantV2
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+
+app = Flask(__name__)
+
+# Watson Assistant credentials
+authenticator = IAMAuthenticator('your-api-key')
+assistant = AssistantV2(
+    version='2023-10-01',
+    authenticator=authenticator
+)
+assistant.set_service_url('your-service-url')
+
+@app.route('/ask_watson', methods=['POST'])
+def ask_watson():
+    user_input = request.json.get('message')
+    response = assistant.message_stateless(
+        assistant_id='your-assistant-id',
+        input={'message_type': 'text', 'text': user_input}
+    ).get_result()
+    
+    # Send back Watson's response
+    return jsonify(response)
+
+if __name__ == '__main__':
+    app.run(debug=True)
