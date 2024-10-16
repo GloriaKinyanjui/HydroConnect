@@ -52,6 +52,9 @@ The code below demonstrates how to use Watsonx.ai for processing water consumpti
 2. Watsonx.governance: This product is used to ensure that all AI-generated insights and decisions within HydroConnect comply with governance rules and regulations, particularly around equitable distribution and ethical resource management.
 
                                        Code can be found on folder named Watsonx.governance for AI Model Governance
+                                       https://github.com/GloriaKinyanjui/HydroConnect/commit/4e540a7d487967e53d6e21240d4e8d91b3c284ec
+
+   
 This code uses Watsonx.governance to ensure that all AI decisions related to water management comply with governance policies.The code verifies that the AI-generated decisions in HydroConnect adhere to governance policies, ensuring ethical water distribution.
 
 3. Watsonx Assistant: The Watsonx Assistant enables HydroConnect to provide interactive, AI-driven communication with users, offering personalized water conservation tips and answering user questions regarding water supply in their area. This assistant also facilitates real-time support and alerts.
