@@ -261,7 +261,8 @@ Key Features:
 2. AI Insights via Watsonx.ai: The back-end retrieves real-time water usage data from sensors and feeds it into Watsonx.ai models to generate predictions on future water needs and suggest conservation techniques.
 3. Accessibility Integration: Using Watson Text-to-Speech, the back-end converts text-based water conservation tips and alerts into audio, making information accessible to users with low literacy levels.
 4. Language Translation: IBM’s Language Translator API is integrated to convert water conservation tips into multiple local languages, ensuring users across diverse regions in Africa can understand key messages.
-   
+
+   This Python code interacts with the front-end by processing user queries, sending them to Watson Assistant, and returning responses to the user.
 https://github.com/GloriaKinyanjui/HydroConnect/commit/540dfa9f6dc39adbb6787e13b3bd55252d9be6ad
 
 
