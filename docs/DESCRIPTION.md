@@ -63,7 +63,7 @@ Mobile App and Web Interface: Users can track water usage and receive notificati
 
 ### Subsection 1.1
 
-Our current HydroConnect prototype demonstrates the potential impact of a smart water management system. While we haven’t fully integrated IBM solutions yet, we have a solid foundation and clear plans to implement IBM Watson AI and other technologies in the next phase of development.
+Our current HydroConnect prototype demonstrates the potential impact of a smart water management system. We have a solid foundation and clear plans to implement IBM Watson AI and other technologies in the next phase of development.
 
 Moving forward, we will incorporate IBM Watson AI for predictive analytics to analyze water usage patterns, forecast shortages, and offer actionable recommendations to communities. With Watson Assistant, we plan to develop a multilingual chatbot interface, allowing users to interact with the platform in local languages via SMS, especially in regions where smartphones are scarce.
 
