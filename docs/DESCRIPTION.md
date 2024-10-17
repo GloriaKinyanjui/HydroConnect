@@ -23,8 +23,7 @@ Hydroconnect offers gender-sensitive solutions, addressing the disproportionate 
 
 Additionally, HydroConnect leverages IBM Watson Assistant to provide a conversational AI interface, allowing users to interact with the platform in multiple African languages, including Swahili, making it more inclusive. Whether it's asking about water availability or understanding usage patterns, users can communicate with the system in natural language, receiving guidance and updates in a user-friendly manner.
 
-
-      **Leveraging Offline and Edge Computing Capabilities for Remote Communities**
+**Leveraging Offline and Edge Computing Capabilities for Remote Communities**
 
 HydroConnect is designed to serve communities in remote areas, where stable internet connectivity is often a challenge. To ensure these regions have access to critical water management tools, our platform incorporates offline capabilities and edge computing, allowing local data collection, processing, and predictions without requiring a continuous internet connection.
 
