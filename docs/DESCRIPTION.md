@@ -25,7 +25,7 @@ Additionally, HydroConnect leverages IBM Watson Assistant to provide a conversat
 
 **Leveraging Offline and Edge Computing Capabilities for Remote Communities**
 
-HydroConnect is designed to serve communities in remote areas, where stable internet connectivity is often a challenge. To ensure these regions have access to critical water management tools, our platform incorporates offline capabilities and edge computing, allowing local data collection, processing, and predictions without requiring a continuous internet connection.
+HydroConnect is designed to serve communities even in remote areas, where stable internet connectivity is often a challenge. To ensure these regions have access to critical water management tools, our platform incorporates offline capabilities and edge computing, allowing local data collection, processing, and predictions without requiring a continuous internet connection.
 
 1. Offline Data Collection and Edge Computing
 In areas without internet access, HydroConnect operates through edge computing devices. These devices collect data from local water usage sensors and process it in real-time. By utilizing edge computing, HydroConnect ensures that critical data on water consumption, water levels, and conservation efforts are analyzed and stored locally. This allows for continuous monitoring and predictive analytics even in remote areas.
