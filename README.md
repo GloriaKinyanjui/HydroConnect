@@ -251,9 +251,17 @@ Key Features:
 1. User Input Form: An input field that allows users to ask questions about water conservation and water supply.
 2. Dynamic Interaction: User queries are sent to the back-end, and the response from Watson Assistant is displayed on the page.
 
-https://github.com/GloriaKinyanjui/HydroConnect/commit/c15977c897fc655829066c77fd755920d2e42459
+(https://github.com/GloriaKinyanjui/HydroConnect/commit/6c9a6a1459ae9dea1545feede11cf5b7dafb4bf3)
 
 Backend
+The back-end of HydroConnect is responsible for interacting with IBM Watson services. Built using Python (Flask) or JavaScript (Node.js), it handles requests from the front-end, sends them to Watson APIs (e.g., Assistant, Machine Learning, etc.), and returns the results.
+
+Key Features:
+1. Watson Assistant Integration: Processes user queries about water management and provides responses.
+2. AI Insights via Watsonx.ai: The back-end retrieves real-time water usage data from sensors and feeds it into Watsonx.ai models to generate predictions on future water needs and suggest conservation techniques.
+3. Accessibility Integration: Using Watson Text-to-Speech, the back-end converts text-based water conservation tips and alerts into audio, making information accessible to users with low literacy levels.
+4. Language Translation: IBM’s Language Translator API is integrated to convert water conservation tips into multiple local languages, ensuring users across diverse regions in Africa can understand key messages.
+   
 https://github.com/GloriaKinyanjui/HydroConnect/commit/540dfa9f6dc39adbb6787e13b3bd55252d9be6ad
 
 
