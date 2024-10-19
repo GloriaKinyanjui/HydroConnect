@@ -205,7 +205,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 The project currently does the following things.
 
 - Feature 1: Real-Time Water Usage Monitoring
-HydroConnect allows users to track real-time water consumption data through IoT sensors installed in their homes or communities. This data is processed and visualized through a user-friendly dashboard, giving users and water authorities a clear understanding of how water is being used in various regions.
+HydroConnect allows users to track real-time water consumption data through IoT sensors installed in their homes or community water centres. This data is processed and visualized through a user-friendly dashboard, giving users and water authorities a clear understanding of how water is being used in various regions.
 
 - Feature 2: : AI-Powered Predictive Insights
 Using IBM Watson AI, HydroConnect analyzes water usage patterns and forecasts future demand. The AI generates predictions on water shortages and provides communities with early warnings, helping them take proactive measures to manage water resources more efficiently.
