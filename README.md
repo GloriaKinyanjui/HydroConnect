@@ -244,7 +244,9 @@ While I am currently working solo, I see HydroConnect growing into a solution dr
 The frontend of Hydroconnect, originally designed in Figma, has been converted to HTML and can be found in the `frontend html-design` folder.
 
 ### Live Code :
-Frontend
+
+**Frontend**
+
 The front-end of HydroConnect is built using HTML and JavaScript. The interface allows users to input water-related queries, which are sent to the Watson Assistant for answers. It also provides real-time water usage predictions based on data from the back-end.
 
 Key Features:
@@ -253,7 +255,8 @@ Key Features:
 
 (https://github.com/GloriaKinyanjui/HydroConnect/commit/6c9a6a1459ae9dea1545feede11cf5b7dafb4bf3)
 
-Backend
+**Backend**
+
 The back-end of HydroConnect is responsible for interacting with IBM Watson services. Built using Python (Flask) or JavaScript (Node.js), it handles requests from the front-end, sends them to Watson APIs (e.g., Assistant, Machine Learning, etc.), and returns the results.
 
 Key Features:
