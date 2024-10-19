@@ -147,6 +147,9 @@ IBM Watson's Text to Speech service will be implemented in Hydroconnect to conve
                                 https://github.com/GloriaKinyanjui/HydroConnect/commit/ce7a523b848e6c5608fcb0040b103ca251511b7e
                                 
 
+The incorporation of Text-to-Speech for low-literacy users and Language Translator to translate conservation messages into local languages reflects deep user empathy. This innovative feature makes HydroConnect accessible to diverse populations, helping overcome barriers like language and literacy that are often overlooked in tech solutions for rural areas.
+
+
 6. Language Translator
 
 The Language Translator service is crucial for HydroConnect’s scalability across different regions in Africa. Given the diversity of languages spoken in these areas, the platform uses IBM’s Language Translator to convert its content—such as water conservation tips and community alerts—into multiple local languages. This ensures that language barriers don’t hinder equitable access to water resources or the adoption of water-saving practices.
