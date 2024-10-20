@@ -234,6 +234,7 @@ See below for our proposed schedule on next steps after Call for Code 2024 submi
 
 ![Roadmap](https://github.com/GloriaKinyanjui/HydroConnect/blob/main/Merged_document.jpg?raw=true)
 
+![Roadmap](https://github.com/GloriaKinyanjui/HydroConnect/blob/main/Hydroconnect's%20Roadmap%20.pdf)
 ## Additional details
 
 HydroConnect was born out of my personal experience growing up in Kenya, where access to clean water was a constant challenge. I remember the long walks to fetch water and the strain it placed on families. These early experiences shaped my desire to create a solution that addresses water scarcity and empowers communities. While working solo on this project, I’ve poured my passion into designing a user-friendly platform that can help families and communities track and optimize water usage to minimize waste and ensure sustainability.
