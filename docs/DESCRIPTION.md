@@ -126,7 +126,9 @@ How It Helps HydroConnect: This ensures that users in rural areas are always inf
 With Watsonx.ai's sentiment analysis, HydroConnect can analyze the feedback and opinions of users regarding water access and conservation issues:
 
 By gathering feedback from community forums, social media, or direct user input, the platform can assess general sentiment around water shortages, quality issues, or the efficiency of resource distribution.
-HydroConnect can then adjust its strategies to address common concerns or identify areas where water distribution might need to be improved.
+HydroConnect can then adjust its strategies to address common concerns or identify areas where water distribution might need to be improved. 
+
+Enabling HydroConnect to perform sentiment analysis (via Watsonx.ai) on users' responses about water conditions could help detect trends in satisfaction or dissatisfaction, giving a deeper connection with users. This will be presented in the app to show that community engagement and satisfaction are being measured.
 
 How It Helps HydroConnect: Sentiment analysis enables the platform to take a proactive approach by identifying user concerns and addressing them in real time, which improves community engagement and satisfaction.
 
