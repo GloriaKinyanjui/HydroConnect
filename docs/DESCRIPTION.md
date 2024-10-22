@@ -159,6 +159,7 @@ In conclusion, HydroConnect offers a comprehensive solution that not only addres
 Impact Metrics for HydroConnect: 
 
 - 20% Reduction in Water Wastage: HydroConnect's early projections indicate that users could potentially reduce water wastage by up to 20% in urban areas.
+  
 HydroConnect can leverage the AI models developed using Watsonx.ai to project real-world impacts on water distribution and conservation. AI-driven insights could forecast water needs across various regions based on historical data, sensor readings, and climate patterns. These projections could be used to demonstrate the savings in water consumption and improved efficiency in resource distribution, contributing to long-term water security. By showing potential water savings and resource optimization backed by AI, the project stands out as data-driven and capable of creating measurable change in communities.
 
 - 50,000 Active Users in the first year: Projected to reach 50,000 active users within the first year, driven by strategic marketing and partnerships.
