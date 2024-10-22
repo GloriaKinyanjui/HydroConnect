@@ -158,7 +158,6 @@ How It Helps HydroConnect: Governance ensures transparency and fairness in decis
 
 In conclusion, HydroConnect offers a comprehensive solution that not only addresses the immediate water scarcity challenges faced by communities but also empowers them with AI-driven insights for long-term sustainability. By providing predictive analytics, efficient water usage tracking, and conservation recommendations, we aim to improve water accessibility, reduce wastage, and contribute to global sustainability efforts.
 
-User testing is central to ensuring the success of HydroConnect, especially given the platform's focus on inclusivity and community-driven solutions. The platform has undergone extensive testing with target users in water-scarce rural communities, focusing on usability, accessibility, and impact. For instance, real-time feedback loops from users were gathered through Watson Assistant, ensuring that water conservation tips and AI-driven insights were practical and understandable, even for non-literate users. The feedback is helping refine features like voice alerts powered by Text to Speech, confirming that these functions met the unique needs of low-literacy areas. This iterative testing process not only validated the current functionality but also ensured that the design could adapt based on community needs, ultimately improving water resource management. Continuous testing will further refine AI predictions and improve user engagement, ensuring HydroConnect evolves with real-world application.
 
 ### Results
 Impact Metrics for HydroConnect: 
@@ -170,6 +169,7 @@ Impact Metrics for HydroConnect:
 - 85% Daily Engagement: High user engagement, with 85% of users interacting with the app daily.
 
 - 95% User Satisfaction: Beta testing showed a 95% satisfaction rate, with users appreciating the intuitive interface and actionable insights.
+User testing is central to ensuring the success of HydroConnect, especially given the platform's focus on inclusivity and community-driven solutions. The platform has undergone testing with target users in water-scarce rural communities, focusing on usability, accessibility, and impact. For instance, real-time feedback loops from users were gathered through Watson Assistant, ensuring that water conservation tips and AI-driven insights would be practical and understandable, even for non-literate users. The feedback is helping refine features like voice alerts powered by Text to Speech, confirming that these functions meet the unique needs of low-literacy areas. This iterative testing process not only validates the current functionality but also ensures that the design could adapt based on community needs, ultimately improving water resource management. Continuous testing will further refine AI predictions and improve user engagement, ensuring HydroConnect evolves with real-world application.
 
 Empowering Communities: 78% of users reported a better understanding of their water consumption, feeling more in control of their usage.
 
