@@ -277,7 +277,7 @@ https://github.com/GloriaKinyanjui/HydroConnect/commit/540dfa9f6dc39adbb6787e13b
 
 ## Front-End and Back-End Integration with Watson Assistant :
 
- Link: https://github.com/GloriaKinyanjui/HydroConnect.git
+ Link: https://github.com/GloriaKinyanjui/HydroConnect/tree/master
 
 This project integrates IBM Watson Assistant into the HydroConnect platform to enable AI-powered interactions related to water management and conservation. 
 
