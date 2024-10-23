@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HydroConnect</title>
+    <link rel="stylesheet" href="style.css"> <!-- Optional: Add custom styles -->
+</head>
+<body>
+    <h1>Welcome to HydroConnect Assistant</h1>
+    <div id="chat-container">
+        <form id="chat-form">
+            <input type="text" id="userMessage" placeholder="Ask me anything about water conservation..." required>
+            <button type="submit">Send</button>
+        </form>
+        <div id="chat-output"></div> <!-- Area to display the Assistant's response -->
+    </div>
+</body>
+
+<body>
+    <header>
+        <h1>HydroConnect - Smart Water Management</h1>
+        <p>Empowering communities with AI-driven insights for efficient water conservation.</p>
+    </header>
+<body>
+    <h1>Welcome to HydroConnect Assistant</h1>
+    <div id="chat-container">
+        <form id="chat-form">
+            <input type="text" id="userMessage" placeholder="Ask me anything about water conservation..." required>
+            <button type="submit">Send</button>
+        </form>
+        <div id="chat-output"></div> <!-- Area to display the Assistant's response -->
+    </div>
+</body>
+
+    <main>
+        <section>
+            <h2>Watson Assistant</h2>
+            <p>Ask a question about water conservation:</p>
+
+            <!-- Form to collect user input for Watson Assistant -->
+            <form id="chat-form">
+                <label for="userMessage">Your Question:</label>
+                <input type="text" id="userMessage" placeholder="Type your message here" required>
+                <button type="submit">Send</button>
+            </form>
+
+            <!-- Placeholder for Watson Assistant response -->
+            <div id="assistant-response">
+                <h3>Response from Watson Assistant:</h3>
+                <p id="responseText">The assistant's response will appear here.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>Water Consumption Insights</h2>
+            <p>Real-time water usage and AI-driven tips for better water management.</p>
+            <div id="water-usage-chart"> <!-- Placeholder for water usage data visualizations -->
+                <p>Water usage chart will be shown here.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 HydroConnect. All rights reserved.</p>
+    </footer>
+
+    <!-- Add JavaScript for API interaction -->
+    <script src="watson-assistant.js"></script>
+</body>
+</html>
