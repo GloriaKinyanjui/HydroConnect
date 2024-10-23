@@ -275,7 +275,27 @@ https://github.com/GloriaKinyanjui/HydroConnect/commit/540dfa9f6dc39adbb6787e13b
 
 ### Live demo
 
+## Front-End and Back-End Integration with Watson Assistant :
+
+ Link: https://github.com/GloriaKinyanjui/HydroConnect.git
+
+This project integrates IBM Watson Assistant into the HydroConnect platform to enable AI-powered interactions related to water management and conservation. 
+
+### Front-End:
+- The front-end consists of an HTML form where users can type their queries related to water resources.
+- It sends these queries to the back-end using a JavaScript handler (`watson-assistant.js`).
+  
+### Back-End:
+- The back-end is responsible for sending the user's message to the Watson Assistant API.
+- Once Watson Assistant processes the message, the response is sent back and displayed in the front-end.
+
 You can find a running system to test at:
+### Steps to Run the Project:
+1. Install `http-server` via npm to serve the files.
+2. Run the following command in the project folder:
+   ```bash
+   http-server public
+
 
 See our [description document](./docs/DESCRIPTION.md) for Project website and Prototype.
 
