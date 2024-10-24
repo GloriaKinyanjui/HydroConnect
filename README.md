@@ -18,6 +18,7 @@ The back-end is powered by IBM Watson APIs, particularly the Watson Assistant se
 
 
 **Testing and Functionality:**
+
 Although not all aspects of the solution have been fully tested, the communication between the HTML form and Watson Assistant has been verified locally. The form collects user input, sends it to Watson Assistant via an API call, and displays the response. Future tests on cloud platforms or further integration can enhance its performance. Clear instructions in the documentation outline how this interaction should function, ensuring that testers or developers can replicate and test the Watson Assistant integration in their environments.
 
 **Environment Setup Instructions**
