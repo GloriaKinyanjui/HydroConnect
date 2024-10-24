@@ -283,7 +283,7 @@ This project integrates IBM Watson Assistant into the HydroConnect platform to e
 
 ### Front-End:
 - The front-end consists of an HTML form where users can type their queries related to water resources.
-- It sends these queries to the back-end using a JavaScript handler (`watson-assistant.js`).
+- It sends these queries to the back-end using a JavaScript handler (`watson-assistant.js`). The watson-assistant.js file handles the communication between the front-end and Watson Assistant.
   
 ### Back-End:
 - The back-end is responsible for sending the user's message to the Watson Assistant API.
