@@ -253,6 +253,7 @@ The frontend of Hydroconnect, originally designed in Figma, has been converted t
 
 The front-end of HydroConnect is built using HTML and JavaScript. The interface allows users to input water-related queries, which are sent to the Watson Assistant for answers. It also provides real-time water usage predictions based on data from the back-end.
 
+
 Key Features:
 1. User Input Form: An input field that allows users to ask questions about water conservation and water supply.
 2. Dynamic Interaction: User queries are sent to the back-end, and the response from Watson Assistant is displayed on the page.
@@ -276,10 +277,12 @@ https://github.com/GloriaKinyanjui/HydroConnect/commit/540dfa9f6dc39adbb6787e13b
 ### Live demo
 
 ## Front-End and Back-End Integration with Watson Assistant :
+Watson Assistant powers the core of HydroConnect by facilitating seamless interaction between users and the system. It handles user inputs, interprets their needs using natural language processing (NLP), and generates AI-driven responses based on the context. This enables users to inquire about water distribution data, conservation techniques, and service updates, receiving real-time insights powered by AI. The backend logic, supported by IBM's cloud infrastructure, ensures smooth communication between the user interface and the Watson Assistant, driving actionable and personalized responses.
 
  Link: https://github.com/GloriaKinyanjui/HydroConnect/tree/master
 
 This project integrates IBM Watson Assistant into the HydroConnect platform to enable AI-powered interactions related to water management and conservation. 
+
 
 ### Front-End:
 - The front-end consists of an HTML form where users can type their queries related to water resources.
