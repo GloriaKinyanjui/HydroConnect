@@ -195,9 +195,8 @@ Diagram and step-by-step description of the flow of our solution:
 6. Based on Watson's analysis, HydroConnect offers personalized water-saving tips and suggestions to users. These tips are displayed on the dashboard and can be sent via email or SMS.
 7. Users can generate comprehensive water usage reports for specific periods. These reports can be downloaded or shared with local water authorities and community leaders to help with policy-making and improving water management practices.
    
-## Presentation materials
 
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
+
 
 ### Solution demo video
 
