@@ -175,6 +175,6 @@ User testing is central to ensuring the success of HydroConnect, especially give
 
 ## Acknowledgments
 
-I would like to express my gratitude to everyone who supported me during the development of HydroConnect. Special thanks go to the Call for Code organizers for providing the resources and platform to turn ideas into impactful solutions. I also want to acknowledge the IBM experts whose tutorials and documentation helped me understand and explore the potential of Watson AI in building this project.
+I would like to express my gratitude to everyone who supported me during the development of HydroConnect. 
 
 Lastly, heartfelt thanks to my family and friends for their constant encouragement, which kept me motivated throughout the process.
