@@ -230,7 +230,7 @@ We plan to deepen the use of AI, moving beyond water usage prediction to include
 4. Educational and Training Modules
 Incorporate training modules that teach users about water conservation, empowering them to be more proactive in managing their resources. This feature will promote sustainability through community education.
 
-See below for our proposed schedule on next steps after Call for Code 2024 submission.
+See below for our proposed schedule on next steps 
 
 ![Roadmap](https://github.com/GloriaKinyanjui/HydroConnect/blob/main/Merged_document.jpg?raw=true)
 
